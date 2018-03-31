@@ -9,4 +9,4 @@ This is what runs in the backend to send me a return value.  Uses phantomjs to r
 
 Running it in head attached mode using chrome driver and it looks something like the video below. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wRhN34YvcvI/0.jpg)](https://www.youtube.com/watch?v=wRhN34YvcvI)
+[Demo Link](https://www.youtube.com/watch?v=wRhN34YvcvI)
